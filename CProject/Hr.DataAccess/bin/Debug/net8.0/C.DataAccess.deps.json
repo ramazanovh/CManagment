@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C.DataAccess/1.0.0": {
+        "dependencies": {
+          "CManagment": "1.0.0"
+        },
+        "runtime": {
+          "C.DataAccess.dll": {}
+        }
+      },
+      "CManagment/1.0.0": {
+        "runtime": {
+          "CManagment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CManagment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

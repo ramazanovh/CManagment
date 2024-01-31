@@ -5,9 +5,9 @@ using CManagment.Entities;
 
 namespace Hr.Business.Services;
 
-public class EmployeeServices : Interface.EmployeeServices
+public class EmployeeServices : interface.EmployeeServices
 {
-    private Interface.DepartmentServices departmentServices { get; }
+    private interface.DepartmentServices departmentServices { get; }
     public EmployeeServices()
     {
         departmentServices = new DepartmentServices();
@@ -56,6 +56,24 @@ public class EmployeeServices : Interface.EmployeeServices
             employee.DepartmentId.CurrentEmployeeCount--;
         }
         else departmentServices.Delete(employee.DepartmentId.Name);
+
+
+
+    public string Name (DependencyObject obj)
+    {
+        return ()obj.GetValue(MyPropertyProperty);
+    }
+
+    public static void SetMyProperty(DependencyObject obj,  value)
+    {
+        obj.SetValue(MyPropertyProperty, value);
+    }
+
+// Using a DependencyProperty as the backing store for MyProperty.  This enables animation, styling, binding, etc...
+public static readonly DependencyProperty MyPropertyProperty =
+    DependencyProperty.RegisterAttached("MyProperty", typeof(), typeof(ownerclass), new PropertyMetadata(0));
+
+
     }
 }
 

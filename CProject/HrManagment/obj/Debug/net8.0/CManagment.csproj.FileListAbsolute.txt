@@ -1,0 +1,12 @@
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\bin\Debug\net8.0\CManagment.deps.json
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\bin\Debug\net8.0\CManagment.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\bin\Debug\net8.0\CManagment.pdb
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.AssemblyInfoInputs.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.AssemblyInfo.cs
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.csproj.CoreCompileInputs.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.sourcelink.json
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\refint\CManagment.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\CManagment.pdb
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HrManagment\obj\Debug\net8.0\ref\CManagment.dll

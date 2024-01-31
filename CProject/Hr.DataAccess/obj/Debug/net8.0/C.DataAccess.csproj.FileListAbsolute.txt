@@ -1,0 +1,16 @@
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\bin\Debug\net8.0\C.DataAccess.deps.json
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\bin\Debug\net8.0\C.DataAccess.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\bin\Debug\net8.0\C.DataAccess.pdb
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\bin\Debug\net8.0\CManagment.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\bin\Debug\net8.0\CManagment.pdb
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.AssemblyInfo.cs
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.sourcelink.json
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.csproj.CopyComplete
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\refint\C.DataAccess.dll
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\C.DataAccess.pdb
+C:\Users\MAQA\Source\Repos\CManagment\CProject\Hr.DataAccess\obj\Debug\net8.0\ref\C.DataAccess.dll

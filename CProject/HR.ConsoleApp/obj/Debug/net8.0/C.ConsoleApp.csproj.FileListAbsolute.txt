@@ -1,0 +1,6 @@
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HR.ConsoleApp\obj\Debug\net8.0\C.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HR.ConsoleApp\obj\Debug\net8.0\C.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HR.ConsoleApp\obj\Debug\net8.0\C.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HR.ConsoleApp\obj\Debug\net8.0\C.ConsoleApp.AssemblyInfo.cs
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HR.ConsoleApp\obj\Debug\net8.0\C.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MAQA\Source\Repos\CManagment\CProject\HR.ConsoleApp\obj\Debug\net8.0\C.ConsoleApp.sourcelink.json
